@@ -7,7 +7,7 @@ welcome! I love india yrr
 </h1>
 
 <?php
-echo "Hello World! Tejvir!!!!! i am Tejvir Singh";
+echo "Hello Worlojuhud! Tejvir!!!!! i am Tejvir Singh";
 ?>
 
 </body>
