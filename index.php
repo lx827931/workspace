@@ -77,7 +77,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 </head>
 <body>
 <header>
-    <h1>My Python Django Project for KSBM INFOTECH</h1>
+    <h1>My Python Django Project for KSBM INFOTECH we are 14 yrs old company.</h1>
     <nav>
         <a href="?page=home">Home</a> |
         <a href="?page=about">About</a> |
